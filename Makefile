@@ -1,4 +1,4 @@
-VERSION = 1.0.3
+VERSION = 9.9.9
 ifeq "$(shell ocamlc -config |grep os_type)" "os_type: Win32"
 EXE=.exe
 else
